@@ -16,3 +16,5 @@ https://stream.ads.ottera.tv/cl/230713cinnjibu5lmr2qp7o6j0/1280x720_3071200_0_f.
 https://stream.ads.ottera.tv/cl/230713cinnksogv6tuh7lhbfc0/1280x720_3071200_0_f.m3u8?i=475_4866
 #EXTINF:-1 channel-id="runtime-631fa8dd7f25240007099a40" tvg-id="631fa8dd7f25240007099a40" tvg-chno="104" tvg-logo="https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60" group-title="TG BRASIL",
 https://stream.ads.ottera.tv/cl/230713cinnmkogv6tuh7lhbsjg/1280x720_2300000_0_f.m3u8?i=475_5442
+#EXTINF:-1 channel-id="runtime-631fa8dd7f25240007099a40" tvg-id="631fa8dd7f25240007099a40" tvg-chno="104" tvg-logo="https://alemdatela.com/wp-content/uploads/2023/06/runtime_recordnews.jpg" group-title="RECORD NEWS",
+https://stream.ads.ottera.tv/cl/230713cinnr1b4di6spsncb9j0/1280x720_3071200_0_f.m3u8?i=475_5431
