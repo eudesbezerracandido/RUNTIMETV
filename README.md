@@ -14,3 +14,5 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 https://stream.ads.ottera.tv/cl/230714ciodf5iaaq6p3agpf640/1280x720_3071200_0_f.m3u8?i=475
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51xeNXguMqL.png" group-title="🎬Filmes e Series", Runtime TG Brasil
 https://stream.ads.ottera.tv/cl/230714cioco0leg1vpinhq2e9g/960x540_1927200_1_f.m3u8?i=475
+#EXTINF:-1 tvg-logo="https://alemdatela.com/wp-content/uploads/2023/06/runtime_recordnews.jpg" group-title="🎬Filmes e Series", Runtime Record News
+https://stream.ads.ottera.tv/cl/230714ciodhgvau86o9r62i9l0/1280x720_3071200_0_f.m3u8?i=475
