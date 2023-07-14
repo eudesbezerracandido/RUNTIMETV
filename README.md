@@ -11,6 +11,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/thumbnails/square/f7241513-runtime_trash_1x1.jpg"🎬Filmes e Series", RunTime Trash
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ae540b891b4a0d073b39ae0bb693f5c3.webp" group-title="🎬Filmes e Series", RunTime Crime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864 
+https://stream.ads.ottera.tv/cl/230714cioco0leg1vpinhq2e9g/1280x720_3071200_0_f.m3u8?i=475
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51xeNXguMqL.png" group-title="🎬Filmes e Series", Runtime TG Brasil
 https://stream.ads.ottera.tv/cl/230714cioco0leg1vpinhq2e9g/960x540_1927200_1_f.m3u8?i=475
