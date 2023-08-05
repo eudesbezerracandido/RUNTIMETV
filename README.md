@@ -17,6 +17,6 @@ https://stream.ads.ottera.tv/cl/230805cj6r0079kmt62n5ak9u0/1280x720_2300000_0_f.
 #EXTINF:-1 tvg-logo="https://alemdatela.com/wp-content/uploads/2023/06/runtime_recordnews.jpg" group-title="🎬Filmes e Series", Runtime Record News
 https://stream.ads.ottera.tv/cl/230805cj6r0ppra6jc5jn75gq0/1280x720_3071200_0_f.m3u8?i=475_5431
 #EXTINF:-1 tvg-logo="https://ia902703.us.archive.org/14/items/movie_20230805/movie.png" group-title="🎬Filmes e Series", Runtime Movie Sphere
-https://tinyurl.com/movie-sphere
+https://tinyurl.com/runtimemovie
 
 
