@@ -25,7 +25,7 @@ https://stream.ads.ottera.tv/cl/240615cpmhl65hg25np8au90u0/1280x720_3071200_0_f.
 #EXTINF:-1 tvg-logo="https://ia804509.us.archive.org/24/items/MotorVision/ZtoiZzW5_400x400.jpg"🎬Filmes e Series", Runtime MotorVision
 https://stream.ads.ottera.tv/cl/240615cpmhtvsvn780bj6v2big/1280x720_3071200_0_f.m3u8?i=728
 #EXTINF:-1 tvg-logo="https://ia600404.us.archive.org/1/items/MasterChefe/839cc20e79ced1227737f517c46bda8d88d54d3ff2b531e3221a14f0a2ed236a.jpg"🎬Filmes e Series", Runtime Master Chefe Brasil
-https://stream.ads.ottera.tv/cl/240615cpmi3qct288nsraa1nr0/1280x720_3071200_0_f.m3u8?i=728
+https://stream.ads.ottera.tv/cl/240615cpmi3qct288nsraa1nr0/1280x720_3071200_0_f.m3u8?i=728_6128
 
 
 
